@@ -2,7 +2,7 @@
 
 This project simulates the behavior of four types of robots using Python and Matplotlib. The simulation includes a robotic arm, a bouncing robot, a path-following robot, and an obstacle-avoidance robot. Each robot's movement is animated, and their paths are visualized with trails. Additionally, dynamic lighting effects are applied based on the robots' positions.
 
-[Robot Simulation](robot_simulation_with_trails_and_lighting.gif)
+![Robot Simulation](https://raw.githubusercontent.com/imuser321/robot-motion-simulator.git/main/robot_simulation_with_trails_and_lighting.gif)
 
 ## Table of Contents
 1. [Features](#features)
